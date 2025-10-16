@@ -16,3 +16,5 @@ Git config --global user.name "Usuario"
 Git config --global user.mail  "correo@gmail.com"
 Git config --global color.ui. auto
 Git config –global --list
+
+la demas parte no se utilizo comando se utilizo la interfaz de visual code
