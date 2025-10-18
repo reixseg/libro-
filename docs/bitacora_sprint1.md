@@ -18,3 +18,9 @@ Git config --global color.ui. auto
 Git config –global --list
 
 la demas parte no se utilizo comando se utilizo la interfaz de visual code
+
+se hace uso de los comandos 
+git commit -m "mensaje "
+esto hara que los cambios de la version local actual se guarden con el mensaje 
+git push 
+envia los commits que se encuantran en el entorno local y no se encuantran en el repositorio remotogit 
